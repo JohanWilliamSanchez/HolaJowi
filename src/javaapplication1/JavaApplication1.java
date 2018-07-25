@@ -17,6 +17,7 @@ public class JavaApplication1 {
         System.out.println("Hola mundo");
         System.out.println("Nuevo");
         System.out.println("soy p*to");
+        System.out.println("bueno ño");
     }
     
 }
